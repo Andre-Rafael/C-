@@ -1,0 +1,9 @@
+C:\Users\Andre\source\repos\TesteHardcore\TesteHardcore\bin\Debug\TesteHardcore.exe.config
+C:\Users\Andre\source\repos\TesteHardcore\TesteHardcore\bin\Debug\TesteHardcore.exe
+C:\Users\Andre\source\repos\TesteHardcore\TesteHardcore\bin\Debug\TesteHardcore.pdb
+C:\Users\Andre\source\repos\TesteHardcore\TesteHardcore\obj\Debug\TesteHardcore.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\TesteHardcore\TesteHardcore\obj\Debug\TesteHardcore.Form1.resources
+C:\Users\Andre\source\repos\TesteHardcore\TesteHardcore\obj\Debug\TesteHardcore.Properties.Resources.resources
+C:\Users\Andre\source\repos\TesteHardcore\TesteHardcore\obj\Debug\TesteHardcore.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\TesteHardcore\TesteHardcore\obj\Debug\TesteHardcore.exe
+C:\Users\Andre\source\repos\TesteHardcore\TesteHardcore\obj\Debug\TesteHardcore.pdb
